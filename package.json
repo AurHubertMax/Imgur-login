@@ -1,0 +1,22 @@
+{
+  "name": "imgur-login",
+  "version": "1.0.0",
+  "description": "component to allow users to log in to Imgur using their app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AurHubertMax/Imgur-login.git"
+  },
+  "keywords": [
+    "imgur"
+  ],
+  "author": "Aureliano Hubert Maximus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AurHubertMax/Imgur-login/issues"
+  },
+  "homepage": "https://github.com/AurHubertMax/Imgur-login#readme"
+}
